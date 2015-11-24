@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <quiz>
+
+<!-- Begin question: 11 -->
+	<question type="truefalse">
+		<name>
+			<text>  Question1:1</text>
+		</name>
+		<questiontext format="html">
+
+			<text><![CDATA[<p>13  + 12 is  25<br>
+</p>]]>
+			</text>
+		</questiontext>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>123</answernumbering>
+		<answer fraction= "100" format="moodle_auto_format">
+			<text>true</text>
+		</answer>
+		<answer fraction= "0" format="moodle_auto_format">
+			<text>false</text>
+		</answer>
+		<generalfeedback format="html">
+			<text><![CDATA[\"is\" implies \"equal to\".  So when you  perform<br>
+ 13+12 is  25 it is equivalent to 13+12 which is 25
+<br>
+]]>
+			</text>
+		</generalfeedback>
+	<defaultgrade>2</defaultgrade>
+	</question>
+<!-- End question: 11 -->
+
+<!-- Begin question: 21 -->
+	<question type="truefalse">
+		<name>
+			<text>  Question2:1</text>
+		</name>
+		<questiontext format="html">
+
+			<text><![CDATA[<p>Ram has 10 apples, sita has 20 oranges, krishna has 30 tomatoes<br>
+     Janaki has 400 potatoes. Select all the correct options
+<br>
+The maximum number of vegetables is  owned by Krishna<br>
+</p>]]>
+			</text>
+		</questiontext>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>123</answernumbering>
+		<answer fraction= "100" format="moodle_auto_format">
+			<text>true</text>
+		</answer>
+		<answer fraction= "0" format="moodle_auto_format">
+			<text>false</text>
+		</answer>
+		<generalfeedback format="html">
+			<text><![CDATA[It is true as "Tomato" is also a vegetable<br>
+]]>
+			</text>
+		</generalfeedback>
+	<defaultgrade>3</defaultgrade>
+	</question>
+<!-- End question: 21 -->
+
+<!-- Begin question: 22 -->
+	<question type="truefalse">
+		<name>
+			<text>  Question2:2</text>
+		</name>
+		<questiontext format="html">
+
+			<text><![CDATA[<p>Ram has 10 apples, sita has 20 oranges, krishna has 30 tomatoes<br>
+     Janaki has 400 potatoes. Select all the correct options
+<br>
+Sita has 10 fruits less then RAM<br>
+</p>]]>
+			</text>
+		</questiontext>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>123</answernumbering>
+		<answer fraction= "0" format="moodle_auto_format">
+			<text>true</text>
+		</answer>
+		<answer fraction= "100" format="moodle_auto_format">
+			<text>false</text>
+		</answer>
+		<generalfeedback format="html">
+			<text><![CDATA[]]>
+			</text>
+		</generalfeedback>
+	<defaultgrade>2</defaultgrade>
+	</question>
+<!-- End question: 22 -->
+
+<!-- Begin question: 23 -->
+	<question type="truefalse">
+		<name>
+			<text>  Question2:3</text>
+		</name>
+		<questiontext format="html">
+
+			<text><![CDATA[<p>Ram has 10 apples, sita has 20 oranges, krishna has 30 tomatoes<br>
+     Janaki has 400 potatoes. Select all the correct options
+<br>
+Janaki exchanges one potato for one fruit from each individual. The<br>
+total number of  vegetables she will have the exchange is 340 
+<br>
+</p>]]>
+			</text>
+		</questiontext>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>123</answernumbering>
+		<answer fraction= "100" format="moodle_auto_format">
+			<text>true</text>
+		</answer>
+		<answer fraction= "0" format="moodle_auto_format">
+			<text>false</text>
+		</answer>
+		<generalfeedback format="html">
+			<text><![CDATA[tomato is also  a fruit<br>
+]]>
+			</text>
+		</generalfeedback>
+	<defaultgrade>1</defaultgrade>
+	</question>
+<!-- End question: 23 -->
+
+<!-- Begin question: 51 -->
+	<question type="essay">
+		<name>
+			<text>  Question5:1</text>
+		</name>
+		<questiontext format="html">
+
+			<text><![CDATA[<p>Name the  5 pandavas and a brief note about how they were specifically <br>
+skiiled
+<br>
+</p>]]>
+			</text>
+		</questiontext>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>123</answernumbering>
+		<answer fraction= "100" format="moodle_auto_format">
+			<text><![CDATA[]]></text>
+		</answer>
+		<generalfeedback format="html">
+			<text><![CDATA[]]>
+			</text>
+		</generalfeedback>
+	<defaultgrade>3</defaultgrade>
+	</question>
+<!-- End question: 51 -->
+
+<!-- Begin question: 61 -->
+	<question type="shortanswer">
+		<name>
+			<text>  Question6:1</text>
+		</name>
+		<questiontext format="html">
+
+			<text><![CDATA[<p>In Indian flag which color starts its name with G <br>
+</p>]]>
+			</text>
+		</questiontext>
+		<shuffleanswers>true</shuffleanswers>
+		<answernumbering>123</answernumbering>
+		<answer fraction= "100" format="moodle_auto_format">
+			<text><![CDATA[<p>--.*\b[G|g][R|r][E|e][E|e][N|n]\b.*<br>
+</p>]]></text>
+		</answer>
+		<generalfeedback format="html">
+			<text><![CDATA[The answer is Green. Indian Flag has Green,White and Safforn <br>
+colors.
+<br>
+]]>
+			</text>
+		</generalfeedback>
+	<defaultgrade>2</defaultgrade>
+	</question>
+<!-- End question: 61 -->
+</quiz>
