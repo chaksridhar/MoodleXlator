@@ -1,0 +1,47 @@
+#****************************************************************
+#  if Marks not specific default Marks is 1
+<multichoice Marks=4>
+ Q >> Choose all the  options that are correct int  the following statement.
+    Note that one or  more of the following  could be correct
+ C>>    1+1 = 2
+ C>>    Consider the  number system. In then number system , the nunber of
+ even numbers, odd numbers  and prime numbers are all infinite
+ C>>   1-1 = 5
+ C>>    3+ 3 = 6
+ A>> 1,2,4
+</multichoice>
+#****************************************************************
+<essay>
+Q>>  Name the  5 pandavas and a brief note about how they were specifically 
+skiiled
+Marks>> 3
+</essay>
+
+#****************************************************************
+<multichoice>
+Q>>  Ram has 10 apples, sita has 20 oranges, krishna has 30 tomatoes
+     Janaki has 400 potatoes. Select all the correct options
+C>>  Krishna has maximum number fruit.
+C>>  Total nummber of vegetables is 400 
+C>>  Janaki exchanges one potato for one fruit from each individual. The
+total number of  vegetables she will have the exchange is 340 
+C>>  Only juice can be mader from apple
+A>> 1,2,3
+
+Q>> UNO stands for
+C>> Us No Over
+C>> United News Organization
+C>> United Nation Organization
+A>> 1
+
+
+</multichoice>
+
+#****************************************************************
+# F>> is for feedback , it is  optional. Marks is optional default is 1
+<truefalse>
+Q>> 13  + 12 is  25
+A>>  True
+F>>  \"is\" implies \"equal to\".  So when you  perform
+ 13+12 is  25 it is equivalent to 13+12 which is 25
+Marks>> 2
