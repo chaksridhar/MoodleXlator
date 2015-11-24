@@ -5,14 +5,20 @@ This application is used to convert a quiz specified in a specific format of
 text file, to MOODLE XML format.
 
 Currently tested in python 2.7. Will not work in python3 as prints have a
-different syntax. You are welcome to port  it
+different syntax. You are welcome to port  it . Also tested only on windows environment only.
 
 
 Usage
 ------
   python moodleXmlGen.py -i <inputFileName> -o <outputFileName> 
+  
 
    If -o  option is not used, the output will  be to console.
+   
+   In this repository a sample input file name called sample1.txt  is provided . and a generated sample output is also  provided
+   call sample2.xml is provided. To convert the text file into an XML file (say output.xml) following would be the command line
+   
+   python moodleXmlGen.py -i  sample1.txt -o  output.txt
 
 A global debug flag in dPrint.py is by default set to 0, 
 if you set it to 1, it will output debug information.
