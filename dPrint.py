@@ -1,4 +1,4 @@
-gDebugLevel = 2
+gDebugLevel = 0
 
 DEBUG=2
 ERROR=1
