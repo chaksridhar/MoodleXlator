@@ -26,6 +26,10 @@ if you set it to 1, it will output debug information.
 Cannot document what the debug info actually means, but you can
 Send  it to me along with input file, it will help me fix problem
 
+Support
+-------
+Appreciation/Cribs/CR , feel free to contact me @ ecsridhar@gmail.com
+
 
 Supported Question Types
 -------------------------
